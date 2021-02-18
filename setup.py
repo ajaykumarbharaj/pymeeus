@@ -18,6 +18,7 @@ config = {
   'version': '0.3.9',
   'description': 'Python implementation of Jean Meeus astronomical routines',
   'long_description': long_description,
+  'long_description_content_type' : 'text/x-rst'
   'keywords': 'Meeus astronomy module library',
   'license': 'LGPLv3',
   'author': 'Dagoberto Salazar',
